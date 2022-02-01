@@ -36,7 +36,7 @@ $ make clean
 ```
 ### Directory Structure
 ```
-├── makefile
+├── Makefile
 ├── README.md
 ├── src
 │   ├── lex.l
