@@ -36,17 +36,21 @@ $ make clean
 ```
 ### Directory Structure
 ```
-├── Makefile
-├── README.md
+
+├── doc
+│   ├── compiler.pdf
 ├── src
 │   ├── lex.l
 │   └── y.tab.h
 └── tests
-    ├── test1.py
-    ├── test2.py
-    ├── test3.py
-    ├── test4.py
-    └── test5.py
+│   ├── test1.py
+│   ├── test2.py
+│   ├── test3.py
+│   ├── test4.py
+│   └── test5.py
+├── .git-ignore
+├── Makefile
+├── README.md
 
 ```
 ##
