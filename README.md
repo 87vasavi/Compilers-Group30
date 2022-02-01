@@ -18,34 +18,22 @@ Target Language : MIPS
 ```
 $ make
 $ ./bin/lexer -i ./tests/test1.py
-
 ```
 OR
 
 ```
 $ make
 $ ./bin/lexer -i ./tests/test1.py -o output.txt 
-
 ```
-
-
-### To get help
-
+### help
 ```
 $ make
 $ ./bin/lexer -help
-
 ```
-
 ### Steps to clean
 ```
 $ make clean
-
 ```
-
-
-
-
 ### Directory Structure
 ```
 ├── makefile
@@ -60,10 +48,7 @@ $ make clean
     ├── test4.py
     └── test5.py
 
-
-
 ```
-
 ##
 
 
